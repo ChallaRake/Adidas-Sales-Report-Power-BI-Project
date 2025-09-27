@@ -35,10 +35,13 @@ To analyze Adidas’s sales data and identify key drivers of revenue and profit,
 Below are a few snapshots of the Power BI dashboard:  
 
 <img width="1786" height="686" alt="Screenshot 2025-09-26 150822" src="https://github.com/user-attachments/assets/1de28974-c14c-4a48-8b50-de49b3f07bc6" />
+
  
 <img width="1795" height="688" alt="Screenshot 2025-09-27 104555" src="https://github.com/user-attachments/assets/a21b002a-7d8b-4d2f-a28b-6dcaf110730d" />
 
+
 <img width="1792" height="685" alt="Screenshot 2025-09-27 104618" src="https://github.com/user-attachments/assets/a6d04dfd-b0a5-475c-85c5-660983085fb6" />
+
 
 <img width="1792" height="685" alt="Screenshot 2025-09-27 104642" src="https://github.com/user-attachments/assets/6787b26c-72d2-4695-b278-891ccd8de40f" />
 
